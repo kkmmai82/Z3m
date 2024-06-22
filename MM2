@@ -146,7 +146,7 @@ Converted["_YARHM"].Name = "My|RS7 "
 Converted["_YARHM"].Parent = game:GetService("CoreGui")
 
 Converted["_Open"].Font = Enum.Font.Gotham
-Converted["_Open"].Text = "RS7 Teams"
+Converted["_Open"].Text = "Z3M | RA3D"
 Converted["_Open"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Open"].TextScaled = true
 Converted["_Open"].TextSize = 14
