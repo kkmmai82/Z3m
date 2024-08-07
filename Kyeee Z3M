@@ -32,7 +32,7 @@ local UICorner_12 = Instance.new("UICorner")
 
 --Properties:
 
-SonicHubKey.Name = "SonicHubKey"
+SonicHubKey.Name = "Z3M"
 SonicHubKey.Parent = game.CoreGui
 SonicHubKey.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -138,7 +138,7 @@ TextLabel_3.Parent = Main
 TextLabel_3.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
 TextLabel_3.Size = UDim2.new(0, 258, 0, 29)
 TextLabel_3.Font = Enum.Font.SourceSans
-TextLabel_3.Text = "Welcome, [Loading...]"
+TextLabel_3.Text = "اسم حسابك, [Loading...]"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextScaled = true
 TextLabel_3.TextSize = 14.000
@@ -152,7 +152,7 @@ Enter.BackgroundColor3 = Color3.fromRGB(23, 100, 167)
 Enter.Position = UDim2.new(0.488372087, 0, 0.56930697, 0)
 Enter.Size = UDim2.new(0, 97, 0, 29)
 Enter.Font = Enum.Font.Ubuntu
-Enter.Text = "Enter"
+Enter.Text = "لصق المفتاح"
 Enter.TextColor3 = Color3.fromRGB(255, 255, 255)
 Enter.TextSize = 20.000
 
