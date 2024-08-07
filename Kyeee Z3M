@@ -124,7 +124,7 @@ TextBox.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
 TextBox.Position = UDim2.new(0.0620155036, 0, 0.371287107, 0)
 TextBox.Size = UDim2.new(0, 207, 0, 31)
 TextBox.Font = Enum.Font.SourceSans
-TextBox.PlaceholderText = "Please Enter A Valid Key."
+TextBox.PlaceholderText = "ادخل كود المفتاح."
 TextBox.Text = ""
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.TextScaled = true
@@ -176,7 +176,7 @@ Link.BackgroundColor3 = Color3.fromRGB(23, 100, 167)
 Link.Position = UDim2.new(0.0620155036, 0, 0.762376249, 0)
 Link.Size = UDim2.new(0, 207, 0, 29)
 Link.Font = Enum.Font.Ubuntu
-Link.Text = "Join Our Server!"
+Link.Text = "حياك سيرفرنا في دسكورد!"
 Link.TextColor3 = Color3.fromRGB(255, 255, 255)
 Link.TextSize = 20.000
 
