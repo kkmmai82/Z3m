@@ -70,7 +70,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(0.0140000004, 0, 5.36441803e-07, 0)
 ImageLabel.Size = UDim2.new(0, 27, 0, 27)
-ImageLabel.Image = "rbxassetid://12462028268"
+ImageLabel.Image = "rbxassetid://159991693"
 
 TextButton.Parent = Panel
 TextButton.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
