@@ -204,7 +204,7 @@ local function PPTFBB_fake_script() -- TextLabel_3.LocalScript
 
 	local text = script.Parent
 	local a = game:GetService("Players")
-	text.Text = "Welcome, "..game.Players.LocalPlayer.DisplayName.."."
+	text.Text = "اسم حسابك, "..game.Players.LocalPlayer.DisplayName.."."
 end
 coroutine.wrap(PPTFBB_fake_script)()
 local function PGUI_fake_script() -- Enter.LocalScript 
@@ -226,7 +226,7 @@ local function PGUI_fake_script() -- Enter.LocalScript
 		    script.Parent.Parent.Parent.Parent:Destroy()
 		    loadstring(game:HttpGet(getgenv().RawLinkST))()
 		else
-			textbox.Text = "Incorrect Key!"
+			textbox.Text = "غلط على مفتاح!"
 			wait(3)
 			textbox.Text = ""
 		end
