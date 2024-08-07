@@ -113,7 +113,7 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
 TextLabel_2.Position = UDim2.new(0.0620155036, 0, 0.212871283, 0)
 TextLabel_2.Size = UDim2.new(0, 153, 0, 21)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Please enter key to continue."
+TextLabel_2.Text = "هاك Z3M للايفون قريبا!."
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 14.000
 
