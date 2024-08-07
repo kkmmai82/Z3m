@@ -70,7 +70,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(0.0140000004, 0, 5.36441803e-07, 0)
 ImageLabel.Size = UDim2.new(0, 27, 0, 27)
-ImageLabel.Image = "rbxassetid://12462028268"
+ImageLabel.Image = "https://create.roblox.com/store/asset/7185881091/miodas-sky?pageNumber=1&pagePosition=14
 
 TextButton.Parent = Panel
 TextButton.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
@@ -97,7 +97,7 @@ ImageLabel_2.BackgroundTransparency = 1.000
 ImageLabel_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
 ImageLabel_2.Position = UDim2.new(0.0790412799, 0, -0.00889874436, 0)
 ImageLabel_2.Size = UDim2.new(0, 202, 0, 202)
-ImageLabel_2.Image = "https://create.roblox.com/store/asset/7185881091/miodas-sky?pageNumber=1&pagePosition=14"
+ImageLabel_2.Image = ""
 
 Main.Name = "Main"
 Main.Parent = Frame
