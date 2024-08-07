@@ -77,7 +77,7 @@ TextButton.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
 TextButton.Position = UDim2.new(0.930000007, 0, 0, 0)
 TextButton.Size = UDim2.new(0, 26, 0, 26)
 TextButton.Font = Enum.Font.Ubuntu
-TextButton.Text = "X"
+TextButton.Text = "-"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextSize = 23.000
 
