@@ -98,7 +98,7 @@ MM2AdminPanel.Parent = game.CoreGui
 MM2AdminPanel.ResetOnSpawn = false
 
 MainFrame.Name = "MainFrame"
-MainFrame.Parent = MM2AdminPanel
+MainFrame.Parent = Z3M MM2 V4
 MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 MainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 MainFrame.BackgroundTransparency = 1.000
@@ -108,7 +108,7 @@ MainFrame.ClipsDescendants = true
 MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
 MainFrame.Size = UDim2.new(0, 387, 0, 229)
 
-StartFrame.Name = "StartFrame"
+StartFrame.Name = "القائمة"
 StartFrame.Parent = MainFrame
 StartFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 StartFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
