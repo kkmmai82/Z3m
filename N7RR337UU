@@ -273,7 +273,7 @@ function MakeWindow(Configs)
       Position = UDim2.new(0, 35, 0, 90),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       PlaceholderText = "Put the Key here",
-      Text = "rbxassetid://159991693",
+      Text = "rbxassetid://10818605405",
       TextColor3 = Configs_HUB.Cor_Text,
       Font = Configs_HUB.Text_Font,
       TextSize = 25
@@ -398,7 +398,7 @@ function MakeWindow(Configs)
       BackgroundColor3 = Configs_HUB.Cor_Hub,
       Size = UDim2.new(1, 0, 1, 0),
       AutoButtonColor = false,
-      Text = "rbxassetid://159991693",
+      Text = "rbxassetid://10818605405",
       BackgroundTransparency = 0.5,
       Visible = false
     })Corner(CloseGui)
@@ -618,7 +618,7 @@ function MakeWindow(Configs)
     local TextButton = Create("TextButton", Frame, {
       Size = UDim2.new(1, 0, 1, 0),
       BackgroundTransparency = 1,
-      Text = "rbxassetid://159991693"
+      Text = "rbxassetid://10818605405"
     })
     
     local TextLabel = Create("TextLabel", Frame, {
@@ -683,7 +683,7 @@ function MakeWindow(Configs)
       Size = UDim2.new(1, 0, 0, 25),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       Name = "Frame",
-      Text = "rbxassetid://159991693",
+      Text = "rbxassetid://10818605405",
       AutoButtonColor = false
     })Corner(TextButton)Stroke(TextButton)
     
@@ -724,7 +724,7 @@ function MakeWindow(Configs)
       Size = UDim2.new(1, 0, 0, 25),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       Name = "Frame",
-      Text = "rbxassetid://159991693",
+      Text = "rbxassetid://10818605405",
       AutoButtonColor = false
     })Corner(TextButton)Stroke(TextButton)
     
