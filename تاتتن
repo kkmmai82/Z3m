@@ -273,7 +273,7 @@ function MakeWindow(Configs)
       Position = UDim2.new(0, 35, 0, 90),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       PlaceholderText = "Put the Key here",
-      Text = "",
+      Text = "rbxassetid://159991693",
       TextColor3 = Configs_HUB.Cor_Text,
       Font = Configs_HUB.Text_Font,
       TextSize = 25
@@ -398,7 +398,7 @@ function MakeWindow(Configs)
       BackgroundColor3 = Configs_HUB.Cor_Hub,
       Size = UDim2.new(1, 0, 1, 0),
       AutoButtonColor = false,
-      Text = "",
+      Text = "rbxassetid://159991693",
       BackgroundTransparency = 0.5,
       Visible = false
     })Corner(CloseGui)
