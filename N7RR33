@@ -618,7 +618,7 @@ function MakeWindow(Configs)
     local TextButton = Create("TextButton", Frame, {
       Size = UDim2.new(1, 0, 1, 0),
       BackgroundTransparency = 1,
-      Text = ""
+      Text = "rbxassetid://159991693"
     })
     
     local TextLabel = Create("TextLabel", Frame, {
@@ -683,7 +683,7 @@ function MakeWindow(Configs)
       Size = UDim2.new(1, 0, 0, 25),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       Name = "Frame",
-      Text = "",
+      Text = "rbxassetid://159991693",
       AutoButtonColor = false
     })Corner(TextButton)Stroke(TextButton)
     
@@ -724,7 +724,7 @@ function MakeWindow(Configs)
       Size = UDim2.new(1, 0, 0, 25),
       BackgroundColor3 = Configs_HUB.Cor_Options,
       Name = "Frame",
-      Text = "",
+      Text = "rbxassetid://159991693",
       AutoButtonColor = false
     })Corner(TextButton)Stroke(TextButton)
     
@@ -914,7 +914,7 @@ function MakeWindow(Configs)
       Position = UDim2.new(0, 35, 0.5, 0),
       AnchorPoint = Vector2.new(0, 0.5),
       BackgroundColor3 = Configs_HUB.Cor_Stroke,
-      Text = ""
+      Text = "rbxassetid://159991693"
     })Corner(SliderBar1)
     
     local SavePos = Create("Frame", SliderBar1, {
