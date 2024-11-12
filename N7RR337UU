@@ -70,7 +70,7 @@ local function TextSetColor(instance)
 end
 
 local ScreenGui = Create("ScreenGui", CoreGui, {
-  Name = "REDz HUB library"
+  Name = "rbxassetid://10818605405"
 })
 
 ScreenFind = CoreGui:FindFirstChild(ScreenGui.Name)
